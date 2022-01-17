@@ -11,6 +11,7 @@ Results: Provide a bulleted list with three major points from the two analysis d
 
 Here are the results from June and dec.
 
+--Comparing  Dec/june data Avy can run ice cream shop all year round
 
 ![image](https://user-images.githubusercontent.com/93456209/149646430-09e6d58a-4a75-4797-94ee-2e85b295bc0e.png)
 
